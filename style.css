@@ -149,7 +149,7 @@ img {
     display: flex;
     flex-direction: column;
     align-items: flex-end;
-    padding: 200px;
+    padding: 200px 350px;
     background-color: #E5E7EB;
     gap: 5px;
 }
@@ -179,7 +179,8 @@ img {
     padding: 50px 180px;
     border-radius: 10px;
     color: #F9FAF8;
-    gap: 100px;
+    gap: 120px;
+
 }
 
 .call-to-action-bold {
